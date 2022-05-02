@@ -9,12 +9,31 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 I'm a Software Development Engineer working for a Health Tech startup in India 
+- 🏦 I'm a Blockchain && Full stack developer.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+      I am a Blockchain & Full Stack Developer with 5+years experiences. (EVM(Ethereum, BSC, Fantom, Polygon, ..., Automic blockchain, Tezos blockchian)
+      As I am blockchain developer I have developed a lot of Dapps. (presale, staking, born, farm, liquidity pool, exchange(swap), bridge, smart contract,...)
+      Also I am so familiar with NFT(mint/fraction/market place).
+      
+      As a blockchain developer, I can help you:
+
+      - Build, test and deploy custom smart contracts for your needs in Ethereum, Polygon, Avalanche, Polkadot, Solana and Cosmos blockchains.
+
+      - Build tools/scripts for interacting and extracting useful data from blockchains (ERC20 tokens, NFT, etc.), building subgraphs, etc.
+
+      - Build your full stack application in Rust, NodeJS, Python and React from scratch to production.
+
+      - Build your customized blockchain with Polkadot's Substrate or Cosmos SDK
+
+      - Design and build React applications
+
+      - Set up CI/CD pipelines on AWS, Azure, DigitalOcean
+
+      - Debug and extend existing applications
+     
 - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
-- 💻 I use daily **.js**, **.java**, **.py**,  **.sql**
-- 📖 I am currently reading **Sapiens** by Yuval Noah Harari
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
+- 💻 I use daily **.js**, **.java**, **.ts**, **.sol**, **.tsx**, **.sql**
+- 💬 Talk to me about cricket, blockchein (both of these are not any kind of insect or animals), top developer & startups
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
 
@@ -62,14 +81,14 @@ Sunday       90 commits     ██████░░░░░░░░░░░�
 ```
 
 
-**I Mostly Code in Python 💻** 
+**I Mostly Code in Blockchain 💻** 
 
 ```text
-Python                   13 repos            ████████░░░░░░░░░░░░░░░░░   31.71% 
-Java                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95% 
-Jupyter Notebook         9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95% 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
+Blockchain     13 repos            ████████░░░░░░░░░░░░░░░░░   31.71% 
+Solidity       9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95% 
+Typescript     9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95% 
+React          6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
+php            2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
 
 ```
 
