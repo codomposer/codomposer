@@ -29,8 +29,7 @@
 
       - Debug and extend existing applications
      
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
-- 💻 I use daily **.js**, **.java**, **.ts**, **.sol**, **.tsx**, **.sql**
+- 💻 I use daily **.js**, **.ts**, **.sol**, **.tsx**, **.sql**, **.php**
 - 💬 Talk to me about cricket, blockchein (both of these are not any kind of insect or animals), top developer & startups
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
