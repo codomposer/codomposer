@@ -37,8 +37,8 @@
 
 <p align="center">
       <img src="https://github.com/gilbarbara/logos/blob/master/logos/solidity.svg" alt="solidity" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/ethereum/ethereum-icon.svg" alt="java" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/reactjs/reactjs-icon.svg" alt="java" width="65" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="java" width="65" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="java" width="65" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/>       
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
