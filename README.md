@@ -32,7 +32,7 @@
 - 💻 I use daily **.js**, **.ts**, **.sol**, **.tsx**, **.sql**, **.php**
 - 💬 Talk to me about cricket, blockchein (both of these are not any kind of insect or animals), top developer & startups
 - 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
+- ⚡ Fun fact: 我懂一点法语
 
 <p align="center">
       <img src="https://github.com/gilbarbara/logos/blob/master/logos/solidity.svg" alt="solidity" width="55" height="55"/>
