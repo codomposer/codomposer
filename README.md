@@ -1,7 +1,19 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="28">
-<p align="center">
-<a href="mailto:akileus0902@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
-<a href="https://www.buymeacoffee.com/gitakileus"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+### **_Contact Details_**
+
+<p align='center'>
+  <a href="https://t.me/akileus0902">
+    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://join.skype.com/invite/yqgdgeNnRjir">
+    <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:akileus0902@gmail.com">
+    <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+    <a href="https://discordapp.com/users/akileus#5916">
+    <img src="https://img.shields.io/badge/discord me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
 </p>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
@@ -33,21 +45,39 @@
 - 💬 Talk to me about cricket, blockchain (both of these are not any kind of insect or animals), top developer & startups
 - 👯 We can connect to play some games of Chess ♟
 
-<p align="center">
-      <img src="https://github.com/gilbarbara/logos/blob/master/logos/solidity.svg" alt="solidity" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="java" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="java" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/>       
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-</p>
+## Skills
+
+<table>
+  <tr>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
+  </tr>  
+</table>
+
+## Tech stack
+
+[![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
+[![Solidity](https://img.shields.io/badge/-Solidity-3c3c3d?style=for-the-badge&logo=ethereum&logoColor=white)]()
+[![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=for-the-badge&logo=javascript&logoColor=)]()
+[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=blue)]()
+[![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![Redux](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)]()
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/-SQL-d2082d?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![Graphql](https://img.shields.io/badge/-Graph_QL-ff1493?style=for-the-badge&logo=graphql&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)]()
+
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px' height='25px'> My Github Stats:
