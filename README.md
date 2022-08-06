@@ -1,4 +1,3 @@
-<div align='center'>
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="28">
 ### **_Contact Details_**
 
@@ -110,8 +109,6 @@ React          6 repos             ███░░░░░░░░░░░░
 php            2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
 
 ```
-
-</div>
 
 <!--END_SECTION:waka-->
 
