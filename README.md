@@ -16,9 +16,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<p align='center'>
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-</p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px" height="45"> About Me:
 - 🏦 I've been a programmer for 6+ years, currently specializing in Web3, Solidity & Rust after enough experience in React.js, Node.js and other relevant skills. Furthermore, I have a passion for learning new skills, and I'm extremely dedicated to my work with crazy & creative ideas by providing new solutions!
