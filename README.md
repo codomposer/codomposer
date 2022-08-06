@@ -19,27 +19,7 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px" height="45"> About Me:
-- 🏦 I am a Blockchain & Full Stack Developer with 5+years experiences.
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-       (EVM(Ethereum, BSC, Fantom, Polygon, ..., Automic blockchain, Tezos blockchian)
-      As I am blockchain developer I have developed a lot of Dapps. (presale, staking, born, farm, liquidity pool, exchange(swap), bridge, smart contract,...)
-      Also I am so familiar with NFT(mint/fraction/market place).
-      
-      As a blockchain developer, I can help you:
-
-      - Build, test and deploy custom smart contracts for your needs in Ethereum, Polygon, Avalanche, Polkadot, Solana and Cosmos blockchains.
-
-      - Build tools/scripts for interacting and extracting useful data from blockchains (ERC20 tokens, NFT, etc.), building subgraphs, etc.
-
-      - Build your full stack application in Rust, NodeJS, Python and React from scratch to production.
-
-      - Build your customized blockchain with Polkadot's Substrate or Cosmos SDK
-
-      - Design and build React applications
-
-      - Set up CI/CD pipelines on AWS, Azure, DigitalOcean
-
-      - Debug and extend existing applications
+- 🏦 I've been a programmer for 6+ years, currently specializing in Web3, Solidity & Rust after enough experience in React.js, Node.js and other relevant skills. Furthermore, I have a passion for learning new skills, and I'm extremely dedicated to my work with crazy & creative ideas by providing new solutions!
      
 - 💻 I use daily **.js**, **.ts**, **.sol**, **.tsx**, **.sql**, **.php**
 - 💬 Talk to me about cricket, blockchain (both of these are not any kind of insect or animals), top developer & startups
