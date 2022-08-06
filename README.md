@@ -28,8 +28,6 @@
 - 👯 We can connect to play some games of Chess ♟
 
 </p>
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px" height="45"> About Me:
-
 
 <div>
       <h1><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Languages & Tools I Know...</h1>
