@@ -17,21 +17,6 @@
   </a>&nbsp;&nbsp;
 </p>
 
-## 🙋‍♂️ About Me
-
-<div>
-  <img align="right" width="100%" src="./about-me.svg" />
-  <img align="right" width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Sincere%20and%20%20Reliable%20Blockchain%20Developer;7+%2B%20years%20of%20hands-on%20experience;Perfect%20Client-Oriented%20Guy&center=true&width=500&height=45" />
-</div>
-<div>
-    &nbsp;&nbsp;- 🏦 Professional Web3, Frontend developer with 8 years of hands-on experience in and meaningful contributions to implementing applications and solutions using a variety of programming languages and technologies.<br/>
-Active and passionate learner – always trying to stay up to date with the latest technologies. Emphasis on writing scalable, well-documented and clean code while ensuring that the customer is satisfied with the product and service provided!
-    
-    - 💻 I use daily **.js**, **.ts**, **.sol**, **.tsx**, **.sql**, **.php**
-    - 💬 Talk to me about cricket, blockchain (both of these are not any kind of insect or animals), top developer & startups
-    - 👯 We can connect to play some games of Chess ♟
-</div>
-
 <div>
       <h1><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Languages & Tools I Know...</h1>
       <p align='left'>
