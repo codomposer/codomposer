@@ -1,22 +1,6 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="28">
 
 ### **_Contact Details_**
-
-<p align='center'>
-  <a href="https://t.me/gritty_dev">
-    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/yqgdgeNnRjir">
-    <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:akileus0902@gmail.com">
-    <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
-    <a href="https://discordapp.com/users/byte_bard_apex">
-    <img src="https://img.shields.io/badge/discord me-%231DA1F3.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
-
 <div>
       <h1><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Languages & Tools I Know...</h1>
       <p align='left'>
